@@ -1,0 +1,7 @@
+logging:
+  level: INFO
+  loggers:
+    oracle: DEBUG
+
+template: Hello, %s!
+defaultName: Stranger
